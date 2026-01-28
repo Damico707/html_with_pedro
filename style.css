@@ -19,7 +19,7 @@
 
 .item  {
   background-color: #e7ede6;
-  border: 9px solid #301e0b;
+  border: 9px solid #000000;
   padding: 1px;
   text-align: center;
 
@@ -62,4 +62,22 @@ p {
     font-family:Impact, sans-serif;
     color:rgb(36, 94, 16);
     background-color: rgb(164, 216, 104);
+}
+
+.text_right {
+    width: 340px;
+    max-height: 380px;
+}
+
+.gifverde {
+    width: 280px;
+    height: 220px;
+    border-radius: 6%;
+}
+
+.img_right {
+    width: 340px;
+    max-height: 380px;
+    border-radius: 5%;
+
 }
