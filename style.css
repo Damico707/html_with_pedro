@@ -3,7 +3,6 @@
   grid-template-rows: 200px 200px 350px;   /*alto de FILA FILA*/
   grid-template-columns: 300px 350px ;  /* ancho  de cada FILA*/
   gap: 0px; /*espacio por dentro*/
-
   
 }
 
@@ -80,4 +79,11 @@ p {
     max-height: 380px;
     border-radius: 5%;
 
+}
+
+.item_down {
+    border-bottom-right-radius: 5%;
+}
+.item_l_down {
+    border-bottom-left-radius: 5%;
 }
